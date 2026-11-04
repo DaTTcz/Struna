@@ -1,0 +1,11 @@
+/target
+**/*.rs.bk
+*.AppImage
+/dist
+.idea/
+.vscode/
+
+# design sources (kept locally, not in the repo)
+/design/
+/_SMAZAT/
+/Claude_OUT/
