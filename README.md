@@ -32,7 +32,9 @@ Early development — nothing to run yet.
 
 <a name="cs"></a>
 
-<p align="center"><img src="assets/flags/cz.svg" height="14" alt="CZ"> Lehký desktopový přehrávač hudby pro <a href="https://www.navidrome.org/">Navidrome</a> a další (Open)Subsonic servery.</p>
+<p align="center"><img src="assets/flags/cz.svg" height="20" alt="CZ"></p>
+
+<p align="center">Lehký desktopový přehrávač hudby pro <a href="https://www.navidrome.org/">Navidrome</a> a další (Open)Subsonic servery.</p>
 
 ## Cíle
 
