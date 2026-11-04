@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-<p align="center"><img src="assets/flags/gb.svg" height="14" alt="GB"> <a href="#en">English</a> · <img src="assets/flags/cz.svg" height="14" alt="CZ"> <a href="#cs">Čeština</a></p>
+<p align="center"><img src="assets/flags/gb.svg" height="14" alt="GB"> <b>English</b> · <img src="assets/flags/cz.svg" height="14" alt="CZ"> <a href="#cs">Čeština</a></p>
 
 <a name="en"></a>
 
@@ -32,7 +32,7 @@ Early development — nothing to run yet.
 
 <a name="cs"></a>
 
-<p align="center"><img src="assets/flags/cz.svg" height="20" alt="CZ"></p>
+<p align="center"><img src="assets/flags/cz.svg" height="14" alt="CZ"> <b>Čeština</b> · <img src="assets/flags/gb.svg" height="14" alt="GB"> <a href="#en">English</a></p>
 
 <p align="center">Lehký desktopový přehrávač hudby pro <a href="https://www.navidrome.org/">Navidrome</a> a další (Open)Subsonic servery.</p>
 
