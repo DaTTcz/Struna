@@ -28,7 +28,7 @@ Early development — nothing to run yet.
 
 *Struna* is Czech for "string" — as in the string of an instrument.
 
----
+<p align="center"><img src="assets/divider.svg" width="240" alt=""></p>
 
 <a name="cs"></a>
 
